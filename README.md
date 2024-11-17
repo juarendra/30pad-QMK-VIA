@@ -57,12 +57,12 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
     <img src="DOC/30pad_4.png" width="75%" height="75%">
 </p>
 
-## Preview Design
+## Preview Hardware
 <p align="center">
-    <img src="DOC/30pad_1.png" width="75%" height="75%">
-    <img src="DOC/30pad_2.png" width="75%" height="75%">
-    <img src="DOC/30pad_3.png" width="75%" height="75%">      
-    <img src="DOC/30pad_4.png" width="75%" height="75%">
+    <img src="DOC/real3.jpeg" width="75%" height="75%">
+    <img src="DOC/real2.jpeg" width="75%" height="75%">
+    <img src="DOC/real1.jpeg" width="75%" height="75%">      
+    <img src="DOC/real4.jpeg" width="75%" height="75%">
 </p>
 
 
