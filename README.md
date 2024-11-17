@@ -21,7 +21,7 @@ or you can load manually json file like a library for detect this macropad
 - Open VIA
 - In Tab Setting, enable "Show Design Tab"
 - Open Design Tab
-- Load file with name "ninepad_via_definitions.json" 
+- Load file with name "30pad_via_definitions.json" 
 - Open Configure Tab to setting your macropad
 - If nothing happend , do it again from first 
 
