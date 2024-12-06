@@ -75,7 +75,7 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
 
 ## Pinout Hardware
-[Pinout Hardaware](https://github.com/juarendra/BigNinepad-QMK-VIA-Macropad/blob/main/HARDWARE/BigNinepad_Pinout.pdf)
+[Pinout Hardaware](https://github.com/juarendra/30pad-QMK-VIA/blob/main/DOC/WIRING%20MACROPAD%2030PAD%20BY%20POSITRON%20ELEKTRONIK.pdf)
 
 ## HOW To FLASH MACROPAD 
 - Download QMK MYSYS, Install and setup QMK MYSYS, you can see this [tutorial](https://msys.qmk.fm/guide.html#next-steps)
