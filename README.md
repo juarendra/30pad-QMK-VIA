@@ -15,6 +15,8 @@ this Device can automatically detect on VIA, just need PC with Intercet Connecti
 - Connect your macropad to PC
 - Open VIA
 - It will auto detect
+For version 30pad 3Knob you need upload json file manually like instruction below 
+
 ## Load JSON File
 or you can load manually json file like a library for detect this macropad
 - Connect your macropad to PC
@@ -24,6 +26,10 @@ or you can load manually json file like a library for detect this macropad
 - Load file with name "30pad_via_definitions.json" 
 - Open Configure Tab to setting your macropad
 - If nothing happend , do it again from first 
+
+## Preview VIA
+
+https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
 
 ## Cara Setting Knob
 - Untuk melakukan setting di knob perlu memasukan command berupa keycode qmk, Jadi cara nya sama dengan melakuykan setting dengan Any key seperti petunjuk pada link berikut: 
@@ -70,9 +76,7 @@ or you can see video [youtube](https://youtu.be/GtSeo69Y0Zw)
 ## Tutorial VIA Usage
 - https://docs.keeb.io/via
 
-## Preview VIA
 
-https://github.com/juarendra/Lianumpad-QMK-VIA/assets/43043633/daf05cb3-5ffb-4896-910a-576f78afdfc5
 
 ## Pinout Hardware
 [Pinout Hardaware](https://github.com/juarendra/30pad-QMK-VIA/blob/main/DOC/WIRING%20MACROPAD%2030PAD%20BY%20POSITRON%20ELEKTRONIK.pdf)
